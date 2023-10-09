@@ -1,6 +1,5 @@
-# pertemuuan3
-# PraktikumWeb2
-## Langkah-langkah Praktikum
+# pertemuuan3eb2
+## Langkah-langkah 
 ### 1. Membuat dokumen HTML
 - Buatlah dokumen HTML seperti berikut
 ```
